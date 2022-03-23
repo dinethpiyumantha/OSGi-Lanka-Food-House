@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<cart>
+	<product>
+		<id>1</id>
+		<name>Cake</name>
+		<price>2</price>
+		<quantity>2</quantity>
+	</product>
+</cart>

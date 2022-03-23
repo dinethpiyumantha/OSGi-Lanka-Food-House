@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<payment>
+	<order>
+		<id>1</id>
+		<customer>001</customer>
+		<method>credit card</method>
+	</order>
+</payment>

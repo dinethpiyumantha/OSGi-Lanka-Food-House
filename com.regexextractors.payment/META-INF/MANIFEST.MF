@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Payment
+Bundle-SymbolicName: com.regexextractors.payment
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.regexextractors.payment.PaymentActivator
+Bundle-Vendor: REGEXEXTRACTORS
+Bundle-RequiredExecutionEnvironment: JavaSE-15
+Automatic-Module-Name: com.regexextractors.payment
+Import-Package: com.regexextractors.deliver,
+ org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy
+Export-Package: com.regexextractors.payment

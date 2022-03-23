@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<store>
+	<product>
+		<id>1</id>
+		<name>Cake</name>
+		<price>1200.00</price>
+		<quantity>30</quantity>
+	</product>
+	<product>
+		<id>2</id>
+		<name>Bread</name>
+		<price>90.00</price>
+		<quantity>50</quantity>
+	</product>
+</store>

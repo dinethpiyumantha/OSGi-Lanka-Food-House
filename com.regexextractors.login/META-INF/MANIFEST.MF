@@ -1,0 +1,13 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: Login
+Bundle-SymbolicName: com.regexextractors.login
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: com.regexextractors.login.LoginActivator
+Bundle-Vendor: REGEXEXTRACTORS
+Bundle-RequiredExecutionEnvironment: JavaSE-15
+Automatic-Module-Name: com.regexextractors.login
+Import-Package: com.regexextractors.store,
+ org.osgi.framework;version="1.3.0"
+Bundle-ActivationPolicy: lazy
+Export-Package: com.regexextractors.login
